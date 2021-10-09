@@ -10,6 +10,7 @@ import React from 'react';
 import {View, Text, SafeAreaView} from 'react-native';
 import {NavigationContainer} from '@react-navigation/native';
 import Navegador from './src/screens/Navegador';
+import Clima from './src/screens/Clima';
 
 export default function App() {
   return (
